@@ -1,0 +1,8 @@
+airShip2.png
+size:765,363
+filter:Linear,Linear
+pma:true
+airship
+bounds:2,2,747,359
+q-line-1
+bounds:751,24,12,337

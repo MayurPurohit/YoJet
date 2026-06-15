@@ -39,10 +39,13 @@ function BROADCAST_USER_COUNT() {
 
     BROADCAST(msg);
 }
+function generateRoundId() {
+  return Math.floor(100000 + Math.random() * 900000);
+}
 
 const GET_ROUND_ID = () => {
     //    TODO get  the data  from API set the values
-    roundId = "12346-8765-43";
+    roundId = generateRoundId();
     roundStatus = true;
     betStatus = true;
     betTime = 7;

@@ -1,4 +1,4 @@
-import{w as U,i as g,j as c,u as S,k as _,l as m,E as I,m as p}from"./CloudManager-HSCS80pi.js";const x={name:"local-uniform-bit",vertex:{header:`
+import{w as U,i as g,j as c,u as S,k as _,l as m,E as I,m as p}from"./CloudManager-C-DUQWZC.js";const x={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
